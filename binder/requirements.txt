@@ -2,3 +2,5 @@ numpy
 sympy
 plotly
 pandas
+ipywidgets>=7.6
+jupyter-dash
